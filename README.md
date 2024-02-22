@@ -49,6 +49,14 @@ Make your changes<br>
 Submit a pull request <br>
 Please ensure that your code follows the existing code style and includes appropriate tests.<br>
 
+# Technology used
+React js<br>
+Tailwind CSS<br>
+HTML <br>
+NPM<br>
+GIT
+
+
 # Credits<br>
 This project was created by Ranjeet Singh.<br>
 
