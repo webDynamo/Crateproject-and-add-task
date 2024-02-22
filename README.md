@@ -1,57 +1,62 @@
-#Crateproject-and-add-task
-Description
+# Crateproject-and-add-task
+
+# Description
+
 Crateproject-and-add-task is a simple project management tool designed to help users create projects and add tasks to them effortlessly. With this application, users can streamline their task organization process and enhance productivity.
 
-Installation
-To get started with Crateproject-and-add-task, follow these steps:
+# Installation
+## To get started with Crateproject-and-add-task, follow these steps:
 
-Clone the repository to your local machine:
+Clone the repository to your local machine:<br>
 
-bash
-Copy code
-git clone https://github.com/your-username/Crateproject-and-add-task.git
-Navigate to the project directory:
+bash <br>
+Copy code<br>
+git clone https://github.com/webDynamo/Crateproject-and-add-task.git<br>
+## Navigate to the project directory:
 
-bash
-Copy code
-cd Crateproject-and-add-task
-Install dependencies:
+bash <br>
+Copy code<br>
+cd Crateproject-and-add-task <br>
+## Install dependencies: <br>
 
-Copy code
-npm install
-Usage
-To run the project, use the following command:
+Copy code <br>
+npm install<br>
+Usage <br>
+## To run the project, use the following command:
 
-sql
-Copy code
-npm start
-Once the server is running, you can access the application through your web browser at http://localhost:3000.
 
-Features
-Project Creation: Create new projects to organize your tasks efficiently.
-Task Management: Add tasks to projects with details such as title, description, and due date.
-Task Completion: Mark tasks as completed to track progress.
-Project Deletion: Remove projects along with their associated tasks when they are no longer needed.
-Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+Copy code <br>
+npm start <br>
+Once the server is running, you can access the application through your web browser at http://localhost:3000.<br>
 
-Fork the repository
-Create a new branch for your feature or bug fix
-Make your changes
-Submit a pull request
-Please ensure that your code follows the existing code style and includes appropriate tests.
+# Features
+## Project Creation<br>
+Create new projects to organize your tasks efficiently.<br>
 
-Credits
-This project was created by [Your Name]. Special thanks to [Any contributors or libraries used].
+## Task Management<br>
+Add tasks to projects with details such as title, description, and due date.<br>
+## Task Completion<br>
+Mark tasks as completed to track progress.<br>
 
-License
-This project is licensed under the [License Name]. See the LICENSE file for details.
+## Project Deletion<br> 
+Remove projects along with their associated tasks when they are no longer needed.<br>
+# Contributing <br>
+### Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines
 
-Contact
-If you have any questions or suggestions regarding this project, feel free to contact me at [your-email@example.com].
+Fork the repository<br>
+Create a new branch for your feature or bug fix<br>
+Make your changes<br>
+Submit a pull request <br>
+Please ensure that your code follows the existing code style and includes appropriate tests.<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# Credits<br>
+This project was created by Ranjeet Singh.<br>
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Contact <br>
+If you have any questions or suggestions regarding this project, feel free to contact me at ranjeetsingh7900@gmail.com.<br>
+
+
+
+
